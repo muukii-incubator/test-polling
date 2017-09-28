@@ -1,4 +1,5 @@
 #! usr/bin/sh
 
-echo "Hello, Towerfile"
-echo "Fooo"
+echo "Start"
+sleep 20
+echo "End"
