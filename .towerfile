@@ -1,5 +1,5 @@
 #! usr/bin/sh
 
 echo "Start"
+sleep 10
 echo "End"
-curl "https://google.com"
